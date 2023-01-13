@@ -9,4 +9,5 @@ I am a junior front-end developer with a passion for creating beautiful and func
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damianpabian/)  
+<a href="https://linkedin.com/in/damianpabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damianpabian" height="30" width="40" /></a>
+</p>
