@@ -1,4 +1,4 @@
-[](https://github.com/anesticnei/anesticnei/blob/main/GitHub-hero.png)
+https://github.com/anesticnei/anesticnei/blob/main/GitHub-hero.png
 
 ### Hi there 👋, my name is Damian
 #### Junior Front-end Developer
