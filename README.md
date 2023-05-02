@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Damian
-#### Future Junior Front-end Developer and Web Developer
+#### Future Junior Front-end Developer
 
 Hello, my name is Damian and I am a future web developer. 
 I started learning front-end development about a year ago on my own. 
