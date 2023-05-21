@@ -1,4 +1,4 @@
-![git-background](https://github.com/anesticnei/E-commerce-Website-Specializing-in-Sports/assets/67920086/92d8be04-bd77-4038-8bab-12a8e2927291)
+![git-background-2](https://github.com/anesticnei/E-commerce-Website-Specializing-in-Sports/assets/67920086/5f5c20f8-7fc5-4542-bccf-a10f0e2ebcc2)
 
 ### Hi there 👋, my name is Damian
 #### I am a Future Junior Front-end Developer
